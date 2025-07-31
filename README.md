@@ -12,7 +12,7 @@ Hi there! I'm **Neha Maria Joji**, a passionate and determined **Computer Scienc
 ---
 
 ### 🛠️ Technical Skills:
-- **Programming Languages**: C, Java, Python, JavaScript
+- **Programming Languages**: Python
 - **Web Development**: HTML, CSS
 - **Interests**: Problem-solving, exploring new technologies, and building projects
 
